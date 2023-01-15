@@ -12,6 +12,7 @@
     "typescript": "^4.9.4"
   },
   "dependencies": {
+    "js-md5": "^0.7.3",
     "lodash": "^4.17.21"
   }
 }
